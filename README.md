@@ -1,2 +1,3 @@
-# Question Preparation
- A space I use to practice common coding interview questions
+# Software Engineering Assessment Preparation
+
+A repository of my solutions to the coding interview questions that I have practiced
